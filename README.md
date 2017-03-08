@@ -11,3 +11,11 @@ Some open-source projects I would like to give credit:
 * [FastMove](http://fastcode.sourceforge.net/challenge_content/FastMove.html) by FastCode project
 
 The library was built for the ease of use and clean understandable code - performance was not a first priority so I have not made any benchmarking.
+
+Features
+========
+* Numeric and WideString indexes (similar to PHP arrays)
+* Boolean / Int64 / Double / WideString item values
+* Strict parsing of JSON with descriptive Exception on error
+* Simple interface (Add, Delete, Remove, Clear)
+* Simple iterators (First, Last, Prev, Next)
